@@ -1,0 +1,13 @@
+D:\Projects\POS\POS\bin\Debug\POS.exe.config
+D:\Projects\POS\POS\bin\Debug\POS.exe
+D:\Projects\POS\POS\bin\Debug\POS.pdb
+D:\Projects\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+D:\Projects\POS\POS\obj\Debug\POS.Brandadd.resources
+D:\Projects\POS\POS\obj\Debug\POS.Catagery.resources
+D:\Projects\POS\POS\obj\Debug\POS.Form1.resources
+D:\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+D:\Projects\POS\POS\obj\Debug\POS.Sub.resources
+D:\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\Projects\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\Projects\POS\POS\obj\Debug\POS.exe
+D:\Projects\POS\POS\obj\Debug\POS.pdb
